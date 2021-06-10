@@ -1,0 +1,16 @@
+{
+  "mockpreview": {
+    "mockUri": "/sap/opu/odata/sap/ZSEGPREDICTIVE_SRV",
+    "metadataFilePath": "localService/metadata.xml",
+    "mockRequestsFilePath": "",
+    "loadJSONFiles": false,
+    "loadCustomRequests": false
+  },
+  "generation": [
+    {
+      "templateId": "servicecatalog.connectivityComponent",
+      "templateVersion": "0.0.0",
+      "dateTimeStamp": "Wed, 24 May 2017 17:26:28 GMT"
+    }
+  ]
+}
